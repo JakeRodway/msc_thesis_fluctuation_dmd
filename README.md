@@ -14,7 +14,7 @@ src/
   spatial_math.py       phase alignment, standing-wave fitting, spatial persistence
   negative_controls.py  off-band, channel-envelope and channel-permutation controls
   validation.py         synthetic mode injection into real measured turbulence (BOP-DMD vs Hankel DMD vs Fourier)
-  diag_lib.py 		     loads the internal analysis library (name set in local_settings.py)
+  diag_lib.py 		    loads the internal analysis library (name set in local_settings.py)
 notebooks/
   01_spectrogram_and_window_sizing.ipynb
   02_dmd_tracking_and_mode_structure.ipynb
